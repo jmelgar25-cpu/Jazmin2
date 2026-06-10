@@ -1,0 +1,37 @@
+body {
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+a {
+    background-color: #ffa500;
+    text-decoration: none;
+    padding: 10px 20px;
+    color: black;
+    border: 2px solid black;
+}
+
+.alta {
+    background-color: green;
+}
+
+.h2 {
+    text-decoration: left solid rgb(99, 180, 247);
+    margin-bottom: 0;
+}
+
+form {
+    text-align: left;
+    background-color: rgb(219, 255, 255);
+    max-width: 400px;
+    margin: auto;
+    border-left: 4px solid blue;
+}
+
+button {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(84, 114, 250);
+    padding: 10px;
+    color: aliceblue;
+}
